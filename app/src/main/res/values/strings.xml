@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Byte</string>
+    <string name="FirstNameText">Primer Nombre :</string>
+    <string name="SecondNameText">Segundo Nombre :</string>
+    <string name="FirstNameTextField">Ingrese Primer Nombre</string>
+    <string name="SecondNameTextField">Ingrese Segundo Nombre</string>
+    <string name="LastNameText">Primer Apellido :</string>
+    <string name="LastNameTextField">Ingrese Primer Apellido</string>
+    <string name="SecondLastNameText">Segundo Apellido :</string>
+    <string name="SecondLastNameTextField">Ingrese Segundo Apellido</string>
+    <string name="EmailText">Correo Electrónico :</string>
+    <string name="UserMailId">Ingrese correo</string>
+    <string name="submitButton">Registrar</string>
+    <string name="RegisterButton">Registro</string>
+    <string name="List_of_Users_text">Lista de Usuarios Registrados</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="PasswordText">Contraseña:</string>
+    <string name="PasswordTextFiels">Ingrese Contraseña</string>
+    <string name="UserNameTextView">Nombre de Usuario:</string>
+    <string name="UsernameTextField">Ingrese nombre de Usuario</string>
+    <string name="backButton">Atrás</string>
+    <string name="Login_text">Login</string>
+    <string name="Login_button">Login</string>
+    <string name="signupText">Bienvenido!</string>
+</resources>
